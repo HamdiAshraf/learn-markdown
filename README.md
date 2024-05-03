@@ -3,8 +3,8 @@
 > Just take your time
 
 
-### Levels
----
+## Levels
+
 | Level | Weeks | Start |
 |----------|----------|----------|
 | 0    | 3    | Jan    |
@@ -12,8 +12,8 @@
 | 2    | 10    | Apr    |
 | 3    | 11    | Jul    |
 
-### Checklist
----
+## Checklist
+
 - Level 0
     - [x] <span style="color:blue">HTML & CSS</span>
     - [x] <span style="color:blue">Git & GitHub</span>
